@@ -2,28 +2,23 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'Do we have any choice but to play certain necessary parts? ',
+    miniTitle: 'DQ 1: Roles',
+    desc: 'Doctor Yeuh was a royal doctor in th House Atreides who betrayed them to the Harkonnens.',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'What is freedom? When is it a good thing to restrict freedom?',
+    miniTitle: 'DQ 2: Freedom',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'Text-Text Connection: Harry Potter',
+    miniTitle: 'Connection'
   },
-  {
-    id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
-  },
-  {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
-  },
+  
 ];
 
 export const startingFeatures = [
