@@ -43,7 +43,7 @@ const Hero = () => (
             <img
               src="/stamp.png"
               alt="stamp"
-              className="sm:w-[155px] w-[100px] sm:h-[155px] h-[100px] object-contain"
+              className="sm:w-[175px] w-[130px] sm:h-[175px] h-[130px] object-contain"
             />
           </div>
         </a>

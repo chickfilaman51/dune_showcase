@@ -4,27 +4,29 @@ export const exploreWorlds = [
     imgUrl: '/planet-01.png',
     title: 'Do we have any choice but to play certain necessary parts? ',
     miniTitle: 'DQ 1: Roles',
-    desc: 'Doctor Yeuh was a royal doctor in th House Atreides who betrayed them to the Harkonnens.',
+    desc: 'Yes, Example: Doctor Yeuh was a royal doctor in the House Atreides who betrayed them to the Harkonnens.',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
     title: 'What is freedom? When is it a good thing to restrict freedom?',
     miniTitle: 'DQ 2: Freedom',
+    desc: 'Freedom is being being able to do anything through free will. The Harkonnens restricted Fremen freedom by murdering them and taking their water, and Paul struck back with his own theocratic rule.',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Text-Text Connection: Harry Potter',
-    miniTitle: 'Connection'
+    title: 'Text-World Connection: Islam & Christianity',
+    miniTitle: 'Text-World Connection:',
+    desc: 'Similar to the Fremen, the Islamic religion is based on the idea of a messiah who save the people. The Fremen believe that Paul is their messiah, and he uses this belief to unite them against the Harkonnens.',
   },
   
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Provides valuable insight on how politics and religion can be used to manipulate people throughout empires',
+  'Contains a captivating tale of betrayal, revenge, and redemption',
+  'An extremely fun and imaginative sci-fi world that is easy to get lost in',
 ];
 
 export const newFeatures = [
