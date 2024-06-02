@@ -1,8 +1,21 @@
-# Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS
+# Dune Project - English
 
-### [Live Site](https://metaverse-sage-psi.vercel.app/)
+## Getting Started
 
-![Chat Application](https://i.ibb.co/sbSHWH0/Thumbnail-1.png)
+To get started with this project, follow these steps:
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+1. Clone the repository: `git clone <repository-url>`
+2. Install the dependencies: `npm install`
+3. Start the development server: `npm run dev`
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Features
+
+- Feature 1: A comprehensive showcase of the book Dune
+- Feature 2: Different connections and answers to the driving questions provided.
+- Feature 3: A sentiment analysis showing how the tone of Dune changes throughout the book.
+
+## License
+
+This project is licensed under the [MIT License](link-to-license).
