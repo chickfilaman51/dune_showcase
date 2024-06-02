@@ -95,6 +95,17 @@
   filter: blur(175px);
 }
 
+.feedback-gradient2 {
+  position: absolute;
+  width: 200px;
+  height: 316px;
+  left: 0px;
+  top: 0px;
+
+  background: #366fbe;
+  filter: blur(175px);
+}
+
 .footer-gradient {
   position: absolute;
   width: 500px;
